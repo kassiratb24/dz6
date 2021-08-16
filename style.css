@@ -1,0 +1,19 @@
+h1 {
+    background-color: red; 
+    text-align: center;
+    color: white;
+}
+
+.images {
+    text-align: center;
+}
+
+.images img {
+    border: 2px black dashed ;
+}
+
+h4 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
